@@ -60,7 +60,7 @@ int main()
 	write.close();
 	Student s2;//not mandatory
 	ifstream read("student.txt");
-	read >> s1;//use of insertion operrator
+	read >> s1;//use of insertion operator
 	cout<< s1;//use of outputstream operator
 
 	
